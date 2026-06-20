@@ -83,3 +83,5 @@ I write about building agentic systems that survive production.
 - 🎓 **M.S. Computer Science & Engineering** — Wichita State University
 - 📜 **NVIDIA Certified Professional** — Agentic AI (NCP-AAI)
 - 📜 **DeepLearning.AI** — Generative AI with Large Language Models · Deep Learning Specialization
+
+<!-- profile readme -->
