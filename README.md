@@ -19,7 +19,6 @@ I lead the design of production agentic systems — multi-agent orchestration, g
 
 ## Open Source
 
-I build in the open and contribute upstream to the tools I rely on.
 
 | Project | Contribution |
 | --- | --- |
