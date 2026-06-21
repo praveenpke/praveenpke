@@ -11,7 +11,7 @@
 
 ---
 
-I'm a **Senior Software Engineer** with **7+ years** building production software, now focused on **agentic AI systems and the MLOps that keep them running**. Python-strong, moving TypeScript-first.
+I'm a **Senior Software Engineer** with **7+ years** building production software, now focused on **agentic AI systems and the MLOps that keep them running**. Python and TypeScript strong.
 
 I lead the design of production agentic systems — multi-agent orchestration, grounded RAG, and safe tool calling — backed by the evaluation, observability, and multi-model routing that keep them reliable and affordable at scale. I care most about the part that decides whether an agent actually ships: it stays correct, you can measure it, and it doesn't break the budget.
 
