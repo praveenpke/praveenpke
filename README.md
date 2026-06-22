@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer;Agentic+AI+Systems+%E2%80%A2+MLOps;Building+agents+you+can+trust%2C+measure+%26+afford" alt="Senior Software Engineer · Agentic AI Systems · MLOps" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3FB950?style=for-the-badge&logo=safari&logoColor=white&labelColor=2B3137)](https://praveenpke.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkemani) [![GitHub](https://img.shields.io/badge/GitHub-6E5494.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveenpke) [![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenemani11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3FB950?style=for-the-badge&logo=safari&logoColor=white&labelColor=2B3137)](https://praveenpke.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkemani) [![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenemani11@gmail.com)
 
 </div>
 
